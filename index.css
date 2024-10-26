@@ -1,0 +1,20 @@
+/* index.css */
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  div {
+    margin: 10px;
+  }
+  
+  input, button {
+    padding: 8px;
+    margin: 5px;
+  }
+  
+  @media (max-width: 600px) {
+    div {
+      padding: 10px;
+    }
+  }
+  
